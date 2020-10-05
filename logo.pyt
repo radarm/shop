@@ -11,4 +11,4 @@ def rajz(szogek_szama,hossz, szin):
     
 rajz(3, 70 'cyan')
 rajz(3, 100 'lime')
-rajz(3, 120 'blue')
+rajz(3, 120 'blue') 
